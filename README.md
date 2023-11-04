@@ -16,5 +16,6 @@ Objective
 ![image](https://github.com/shrutibel27/Myntra-Dashboard-/assets/147066355/788b7cee-7cf2-4eb6-9be4-6cdc95879c81)
 
 
-Star Schema 
+Star Schema
+
 ![image](https://github.com/shrutibel27/Myntra-Dashboard-/assets/147066355/0c89c3ac-3cb6-4f48-bf25-13e0323c3d81)
